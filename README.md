@@ -1,0 +1,1 @@
+This repository documents uncommon errors encountered when using the Expo CLI and provides solutions.  The focus is on issues that produce vague error messages or unexpected behavior, requiring deeper debugging techniques.  Includes example scenarios and troubleshooting steps.
